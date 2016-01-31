@@ -8,7 +8,7 @@ Tenkiba the weatherbot. I am a Shiba and I know weather. :dog2:
 **:dog2:: Woof, here are steps below.**
 
 
-1. Open Terminal
+1. Download this repo, and then open Terminal
 2. `cd` into this repo
 3. `python a.py` 
 4. There you go. Say [ Goodbye ] to exit.

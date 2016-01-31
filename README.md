@@ -1,4 +1,4 @@
-# Tenkiba :dog2:
+# Tenkiba :dog2::sunny:
 Tenkiba the weatherbot. I am a Shiba and I know weather. :dog2:
 
 ---

@@ -2,7 +2,9 @@
 Tenkiba the weatherbot. I am a Shiba and I know weather.
 
 **Q: Tenkiba, how do I call you out?**
+
 **A: Woof, here are steps below.**
+
 1. Open Terminal
 2. `cd` into this repo
 3. `python a.py` 
@@ -10,4 +12,5 @@ Tenkiba the weatherbot. I am a Shiba and I know weather.
 
 
 **Q: I have some questions! :/**
+
 **A: Please email to `lhuang2@cca.edu`**

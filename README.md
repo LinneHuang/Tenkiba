@@ -21,6 +21,6 @@ Tenkiba the weatherbot. I am a Shiba and I know weather. :dog2:
 
 **Q: I have some questions! :/**
 
-**:dog2:: Please email to `lhuang2@cca.edu` I will reply you very soon!**
+**:dog2:: Please email to [lhuang2@cca.edu](mailto:lhuang2@cca.edu). I will reply you very soon!**
 
 ---

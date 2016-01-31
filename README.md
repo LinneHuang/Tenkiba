@@ -12,7 +12,9 @@ Tenkiba the weatherbot. I am a Shiba and I know weather. :dog2:
 2. `cd` into this repo
 3. `python a.py` 
 4. There you go. Say [ Goodbye ] to exit.
+
 ...
+
 - P.s. Yes, `b.py` is another me but meaner.
 
 ---

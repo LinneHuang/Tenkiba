@@ -1,6 +1,8 @@
 # :sunny::dog2::sunny: Tenkiba :sunny::dog2::sunny:
 Tenkiba the weatherbot. I am a Shiba and I know weather. :dog2:
 
+![GitHub Logo](/tenkiba.jpg)
+
 ---
 
 **Q: Tenkiba, how do I call you out?**

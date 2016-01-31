@@ -1,9 +1,9 @@
-# Tenkiba
-Tenkiba the weatherbot. I am a Shiba and I know weather.
+# Tenkiba :dog2:
+Tenkiba the weatherbot. I am a Shiba and I know weather. :dog2:
 
 **Q: Tenkiba, how do I call you out?**
 
-**A: Woof, here are steps below.**
+**:dog2:: Woof, here are steps below.**
 
 1. Open Terminal
 2. `cd` into this repo
@@ -13,4 +13,4 @@ Tenkiba the weatherbot. I am a Shiba and I know weather.
 
 **Q: I have some questions! :/**
 
-**A: Please email to `lhuang2@cca.edu`**
+**:dog2:: Please email to `lhuang2@cca.edu` I will reply you very soon!**

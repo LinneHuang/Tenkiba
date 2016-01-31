@@ -25,5 +25,5 @@ Tenkiba the weatherbot. I am a Shiba and I know weather. :dog2:
 
 ---
 
-© 2016   < > with   by  Linn S. Huang
+© 2016 < > with <3 by Linn S. Huang
 
